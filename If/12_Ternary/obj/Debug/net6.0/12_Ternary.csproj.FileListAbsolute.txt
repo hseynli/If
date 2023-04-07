@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\If\12_Ternary\bin\Debug\net6.0\12_Ternary.exe
+D:\Projects\VS Projects\If\12_Ternary\bin\Debug\net6.0\12_Ternary.deps.json
+D:\Projects\VS Projects\If\12_Ternary\bin\Debug\net6.0\12_Ternary.runtimeconfig.json
+D:\Projects\VS Projects\If\12_Ternary\bin\Debug\net6.0\12_Ternary.dll
+D:\Projects\VS Projects\If\12_Ternary\bin\Debug\net6.0\12_Ternary.pdb
+D:\Projects\VS Projects\If\12_Ternary\obj\Debug\net6.0\12_Ternary.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\If\12_Ternary\obj\Debug\net6.0\12_Ternary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\If\12_Ternary\obj\Debug\net6.0\12_Ternary.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\If\12_Ternary\obj\Debug\net6.0\12_Ternary.AssemblyInfo.cs
+D:\Projects\VS Projects\If\12_Ternary\obj\Debug\net6.0\12_Ternary.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\If\12_Ternary\obj\Debug\net6.0\12_Ternary.dll
+D:\Projects\VS Projects\If\12_Ternary\obj\Debug\net6.0\refint\12_Ternary.dll
+D:\Projects\VS Projects\If\12_Ternary\obj\Debug\net6.0\12_Ternary.pdb
+D:\Projects\VS Projects\If\12_Ternary\obj\Debug\net6.0\12_Ternary.genruntimeconfig.cache
+D:\Projects\VS Projects\If\12_Ternary\obj\Debug\net6.0\ref\12_Ternary.dll

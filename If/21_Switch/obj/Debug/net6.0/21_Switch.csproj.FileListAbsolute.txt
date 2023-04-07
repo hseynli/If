@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\If\21_Switch\bin\Debug\net6.0\21_Switch.exe
+D:\Projects\VS Projects\If\21_Switch\bin\Debug\net6.0\21_Switch.deps.json
+D:\Projects\VS Projects\If\21_Switch\bin\Debug\net6.0\21_Switch.runtimeconfig.json
+D:\Projects\VS Projects\If\21_Switch\bin\Debug\net6.0\21_Switch.dll
+D:\Projects\VS Projects\If\21_Switch\bin\Debug\net6.0\21_Switch.pdb
+D:\Projects\VS Projects\If\21_Switch\obj\Debug\net6.0\21_Switch.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\If\21_Switch\obj\Debug\net6.0\21_Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\If\21_Switch\obj\Debug\net6.0\21_Switch.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\If\21_Switch\obj\Debug\net6.0\21_Switch.AssemblyInfo.cs
+D:\Projects\VS Projects\If\21_Switch\obj\Debug\net6.0\21_Switch.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\If\21_Switch\obj\Debug\net6.0\21_Switch.dll
+D:\Projects\VS Projects\If\21_Switch\obj\Debug\net6.0\refint\21_Switch.dll
+D:\Projects\VS Projects\If\21_Switch\obj\Debug\net6.0\21_Switch.pdb
+D:\Projects\VS Projects\If\21_Switch\obj\Debug\net6.0\21_Switch.genruntimeconfig.cache
+D:\Projects\VS Projects\If\21_Switch\obj\Debug\net6.0\ref\21_Switch.dll

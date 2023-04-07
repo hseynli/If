@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\If\24_Switch\bin\Debug\net6.0\24_Switch.exe
+D:\Projects\VS Projects\If\24_Switch\bin\Debug\net6.0\24_Switch.deps.json
+D:\Projects\VS Projects\If\24_Switch\bin\Debug\net6.0\24_Switch.runtimeconfig.json
+D:\Projects\VS Projects\If\24_Switch\bin\Debug\net6.0\24_Switch.dll
+D:\Projects\VS Projects\If\24_Switch\bin\Debug\net6.0\24_Switch.pdb
+D:\Projects\VS Projects\If\24_Switch\obj\Debug\net6.0\24_Switch.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\If\24_Switch\obj\Debug\net6.0\24_Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\If\24_Switch\obj\Debug\net6.0\24_Switch.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\If\24_Switch\obj\Debug\net6.0\24_Switch.AssemblyInfo.cs
+D:\Projects\VS Projects\If\24_Switch\obj\Debug\net6.0\24_Switch.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\If\24_Switch\obj\Debug\net6.0\24_Switch.dll
+D:\Projects\VS Projects\If\24_Switch\obj\Debug\net6.0\refint\24_Switch.dll
+D:\Projects\VS Projects\If\24_Switch\obj\Debug\net6.0\24_Switch.pdb
+D:\Projects\VS Projects\If\24_Switch\obj\Debug\net6.0\24_Switch.genruntimeconfig.cache
+D:\Projects\VS Projects\If\24_Switch\obj\Debug\net6.0\ref\24_Switch.dll

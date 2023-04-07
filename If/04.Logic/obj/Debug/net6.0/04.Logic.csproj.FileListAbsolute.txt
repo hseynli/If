@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\If\04.Logic\bin\Debug\net6.0\04.Logic.exe
+D:\Projects\VS Projects\If\04.Logic\bin\Debug\net6.0\04.Logic.deps.json
+D:\Projects\VS Projects\If\04.Logic\bin\Debug\net6.0\04.Logic.runtimeconfig.json
+D:\Projects\VS Projects\If\04.Logic\bin\Debug\net6.0\04.Logic.dll
+D:\Projects\VS Projects\If\04.Logic\bin\Debug\net6.0\04.Logic.pdb
+D:\Projects\VS Projects\If\04.Logic\obj\Debug\net6.0\04.Logic.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\If\04.Logic\obj\Debug\net6.0\04.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\If\04.Logic\obj\Debug\net6.0\04.Logic.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\If\04.Logic\obj\Debug\net6.0\04.Logic.AssemblyInfo.cs
+D:\Projects\VS Projects\If\04.Logic\obj\Debug\net6.0\04.Logic.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\If\04.Logic\obj\Debug\net6.0\04.Logic.dll
+D:\Projects\VS Projects\If\04.Logic\obj\Debug\net6.0\refint\04.Logic.dll
+D:\Projects\VS Projects\If\04.Logic\obj\Debug\net6.0\04.Logic.pdb
+D:\Projects\VS Projects\If\04.Logic\obj\Debug\net6.0\04.Logic.genruntimeconfig.cache
+D:\Projects\VS Projects\If\04.Logic\obj\Debug\net6.0\ref\04.Logic.dll

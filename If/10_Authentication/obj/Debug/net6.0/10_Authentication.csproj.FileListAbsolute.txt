@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\If\10_Authentication\bin\Debug\net6.0\10_Authentication.exe
+D:\Projects\VS Projects\If\10_Authentication\bin\Debug\net6.0\10_Authentication.deps.json
+D:\Projects\VS Projects\If\10_Authentication\bin\Debug\net6.0\10_Authentication.runtimeconfig.json
+D:\Projects\VS Projects\If\10_Authentication\bin\Debug\net6.0\10_Authentication.dll
+D:\Projects\VS Projects\If\10_Authentication\bin\Debug\net6.0\10_Authentication.pdb
+D:\Projects\VS Projects\If\10_Authentication\obj\Debug\net6.0\10_Authentication.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\If\10_Authentication\obj\Debug\net6.0\10_Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\If\10_Authentication\obj\Debug\net6.0\10_Authentication.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\If\10_Authentication\obj\Debug\net6.0\10_Authentication.AssemblyInfo.cs
+D:\Projects\VS Projects\If\10_Authentication\obj\Debug\net6.0\10_Authentication.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\If\10_Authentication\obj\Debug\net6.0\10_Authentication.dll
+D:\Projects\VS Projects\If\10_Authentication\obj\Debug\net6.0\refint\10_Authentication.dll
+D:\Projects\VS Projects\If\10_Authentication\obj\Debug\net6.0\10_Authentication.pdb
+D:\Projects\VS Projects\If\10_Authentication\obj\Debug\net6.0\10_Authentication.genruntimeconfig.cache
+D:\Projects\VS Projects\If\10_Authentication\obj\Debug\net6.0\ref\10_Authentication.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\If\03.Task1\bin\Debug\net6.0\03.Task1.exe
+D:\Projects\VS Projects\If\03.Task1\bin\Debug\net6.0\03.Task1.deps.json
+D:\Projects\VS Projects\If\03.Task1\bin\Debug\net6.0\03.Task1.runtimeconfig.json
+D:\Projects\VS Projects\If\03.Task1\bin\Debug\net6.0\03.Task1.dll
+D:\Projects\VS Projects\If\03.Task1\bin\Debug\net6.0\03.Task1.pdb
+D:\Projects\VS Projects\If\03.Task1\obj\Debug\net6.0\03.Task1.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\If\03.Task1\obj\Debug\net6.0\03.Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\If\03.Task1\obj\Debug\net6.0\03.Task1.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\If\03.Task1\obj\Debug\net6.0\03.Task1.AssemblyInfo.cs
+D:\Projects\VS Projects\If\03.Task1\obj\Debug\net6.0\03.Task1.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\If\03.Task1\obj\Debug\net6.0\03.Task1.dll
+D:\Projects\VS Projects\If\03.Task1\obj\Debug\net6.0\refint\03.Task1.dll
+D:\Projects\VS Projects\If\03.Task1\obj\Debug\net6.0\03.Task1.pdb
+D:\Projects\VS Projects\If\03.Task1\obj\Debug\net6.0\03.Task1.genruntimeconfig.cache
+D:\Projects\VS Projects\If\03.Task1\obj\Debug\net6.0\ref\03.Task1.dll

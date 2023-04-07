@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\If\22_Switch\bin\Debug\net6.0\22_Switch.exe
+D:\Projects\VS Projects\If\22_Switch\bin\Debug\net6.0\22_Switch.deps.json
+D:\Projects\VS Projects\If\22_Switch\bin\Debug\net6.0\22_Switch.runtimeconfig.json
+D:\Projects\VS Projects\If\22_Switch\bin\Debug\net6.0\22_Switch.dll
+D:\Projects\VS Projects\If\22_Switch\bin\Debug\net6.0\22_Switch.pdb
+D:\Projects\VS Projects\If\22_Switch\obj\Debug\net6.0\22_Switch.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\If\22_Switch\obj\Debug\net6.0\22_Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\If\22_Switch\obj\Debug\net6.0\22_Switch.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\If\22_Switch\obj\Debug\net6.0\22_Switch.AssemblyInfo.cs
+D:\Projects\VS Projects\If\22_Switch\obj\Debug\net6.0\22_Switch.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\If\22_Switch\obj\Debug\net6.0\22_Switch.dll
+D:\Projects\VS Projects\If\22_Switch\obj\Debug\net6.0\refint\22_Switch.dll
+D:\Projects\VS Projects\If\22_Switch\obj\Debug\net6.0\22_Switch.pdb
+D:\Projects\VS Projects\If\22_Switch\obj\Debug\net6.0\22_Switch.genruntimeconfig.cache
+D:\Projects\VS Projects\If\22_Switch\obj\Debug\net6.0\ref\22_Switch.dll

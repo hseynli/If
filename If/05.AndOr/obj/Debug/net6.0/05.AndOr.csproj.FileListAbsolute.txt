@@ -1,0 +1,5 @@
+D:\Projects\VS Projects\If\05.AndOr\obj\Debug\net6.0\05.AndOr.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\If\05.AndOr\obj\Debug\net6.0\05.AndOr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\If\05.AndOr\obj\Debug\net6.0\05.AndOr.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\If\05.AndOr\obj\Debug\net6.0\05.AndOr.AssemblyInfo.cs
+D:\Projects\VS Projects\If\05.AndOr\obj\Debug\net6.0\05.AndOr.csproj.CoreCompileInputs.cache

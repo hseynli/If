@@ -1,0 +1,5 @@
+D:\Projects\VS Projects\If\11_Task2\obj\Debug\net6.0\11_Task2.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\If\11_Task2\obj\Debug\net6.0\11_Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\If\11_Task2\obj\Debug\net6.0\11_Task2.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\If\11_Task2\obj\Debug\net6.0\11_Task2.AssemblyInfo.cs
+D:\Projects\VS Projects\If\11_Task2\obj\Debug\net6.0\11_Task2.csproj.CoreCompileInputs.cache

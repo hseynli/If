@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\If\06.ShortLogicComputing\bin\Debug\net6.0\08_ShortLogicComputing.exe
+D:\Projects\VS Projects\If\06.ShortLogicComputing\bin\Debug\net6.0\08_ShortLogicComputing.deps.json
+D:\Projects\VS Projects\If\06.ShortLogicComputing\bin\Debug\net6.0\08_ShortLogicComputing.runtimeconfig.json
+D:\Projects\VS Projects\If\06.ShortLogicComputing\bin\Debug\net6.0\08_ShortLogicComputing.dll
+D:\Projects\VS Projects\If\06.ShortLogicComputing\bin\Debug\net6.0\08_ShortLogicComputing.pdb
+D:\Projects\VS Projects\If\06.ShortLogicComputing\obj\Debug\net6.0\08_ShortLogicComputing.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\If\06.ShortLogicComputing\obj\Debug\net6.0\08_ShortLogicComputing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\If\06.ShortLogicComputing\obj\Debug\net6.0\08_ShortLogicComputing.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\If\06.ShortLogicComputing\obj\Debug\net6.0\08_ShortLogicComputing.AssemblyInfo.cs
+D:\Projects\VS Projects\If\06.ShortLogicComputing\obj\Debug\net6.0\08_ShortLogicComputing.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\If\06.ShortLogicComputing\obj\Debug\net6.0\08_ShortLogicComputing.dll
+D:\Projects\VS Projects\If\06.ShortLogicComputing\obj\Debug\net6.0\refint\08_ShortLogicComputing.dll
+D:\Projects\VS Projects\If\06.ShortLogicComputing\obj\Debug\net6.0\08_ShortLogicComputing.pdb
+D:\Projects\VS Projects\If\06.ShortLogicComputing\obj\Debug\net6.0\08_ShortLogicComputing.genruntimeconfig.cache
+D:\Projects\VS Projects\If\06.ShortLogicComputing\obj\Debug\net6.0\ref\08_ShortLogicComputing.dll

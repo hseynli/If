@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\If\If\bin\Debug\net6.0\01.Console.ReadLineMethod.exe
+D:\Projects\VS Projects\If\If\bin\Debug\net6.0\01.Console.ReadLineMethod.deps.json
+D:\Projects\VS Projects\If\If\bin\Debug\net6.0\01.Console.ReadLineMethod.runtimeconfig.json
+D:\Projects\VS Projects\If\If\bin\Debug\net6.0\01.Console.ReadLineMethod.dll
+D:\Projects\VS Projects\If\If\bin\Debug\net6.0\01.Console.ReadLineMethod.pdb
+D:\Projects\VS Projects\If\If\obj\Debug\net6.0\01.Console.ReadLineMethod.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\If\If\obj\Debug\net6.0\01.Console.ReadLineMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\If\If\obj\Debug\net6.0\01.Console.ReadLineMethod.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\If\If\obj\Debug\net6.0\01.Console.ReadLineMethod.AssemblyInfo.cs
+D:\Projects\VS Projects\If\If\obj\Debug\net6.0\01.Console.ReadLineMethod.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\If\If\obj\Debug\net6.0\01.Console.ReadLineMethod.dll
+D:\Projects\VS Projects\If\If\obj\Debug\net6.0\refint\01.Console.ReadLineMethod.dll
+D:\Projects\VS Projects\If\If\obj\Debug\net6.0\01.Console.ReadLineMethod.pdb
+D:\Projects\VS Projects\If\If\obj\Debug\net6.0\01.Console.ReadLineMethod.genruntimeconfig.cache
+D:\Projects\VS Projects\If\If\obj\Debug\net6.0\ref\01.Console.ReadLineMethod.dll

@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\If\ConvertClasses\bin\Debug\net6.0\02.ConvertClasses.exe
+D:\Projects\VS Projects\If\ConvertClasses\bin\Debug\net6.0\02.ConvertClasses.deps.json
+D:\Projects\VS Projects\If\ConvertClasses\bin\Debug\net6.0\02.ConvertClasses.runtimeconfig.json
+D:\Projects\VS Projects\If\ConvertClasses\bin\Debug\net6.0\02.ConvertClasses.dll
+D:\Projects\VS Projects\If\ConvertClasses\bin\Debug\net6.0\02.ConvertClasses.pdb
+D:\Projects\VS Projects\If\ConvertClasses\obj\Debug\net6.0\02.ConvertClasses.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\If\ConvertClasses\obj\Debug\net6.0\02.ConvertClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\If\ConvertClasses\obj\Debug\net6.0\02.ConvertClasses.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\If\ConvertClasses\obj\Debug\net6.0\02.ConvertClasses.AssemblyInfo.cs
+D:\Projects\VS Projects\If\ConvertClasses\obj\Debug\net6.0\02.ConvertClasses.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\If\ConvertClasses\obj\Debug\net6.0\02.ConvertClasses.dll
+D:\Projects\VS Projects\If\ConvertClasses\obj\Debug\net6.0\refint\02.ConvertClasses.dll
+D:\Projects\VS Projects\If\ConvertClasses\obj\Debug\net6.0\02.ConvertClasses.pdb
+D:\Projects\VS Projects\If\ConvertClasses\obj\Debug\net6.0\02.ConvertClasses.genruntimeconfig.cache
+D:\Projects\VS Projects\If\ConvertClasses\obj\Debug\net6.0\ref\02.ConvertClasses.dll

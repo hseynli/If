@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\If\09_If-else\bin\Debug\net6.0\09_If-else.exe
+D:\Projects\VS Projects\If\09_If-else\bin\Debug\net6.0\09_If-else.deps.json
+D:\Projects\VS Projects\If\09_If-else\bin\Debug\net6.0\09_If-else.runtimeconfig.json
+D:\Projects\VS Projects\If\09_If-else\bin\Debug\net6.0\09_If-else.dll
+D:\Projects\VS Projects\If\09_If-else\bin\Debug\net6.0\09_If-else.pdb
+D:\Projects\VS Projects\If\09_If-else\obj\Debug\net6.0\09_If-else.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\If\09_If-else\obj\Debug\net6.0\09_If-else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\If\09_If-else\obj\Debug\net6.0\09_If-else.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\If\09_If-else\obj\Debug\net6.0\09_If-else.AssemblyInfo.cs
+D:\Projects\VS Projects\If\09_If-else\obj\Debug\net6.0\09_If-else.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\If\09_If-else\obj\Debug\net6.0\09_If-else.dll
+D:\Projects\VS Projects\If\09_If-else\obj\Debug\net6.0\refint\09_If-else.dll
+D:\Projects\VS Projects\If\09_If-else\obj\Debug\net6.0\09_If-else.pdb
+D:\Projects\VS Projects\If\09_If-else\obj\Debug\net6.0\09_If-else.genruntimeconfig.cache
+D:\Projects\VS Projects\If\09_If-else\obj\Debug\net6.0\ref\09_If-else.dll

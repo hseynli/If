@@ -1,0 +1,2 @@
+﻿//İstifadəçi iki ədəd və riyazi əməllərdən (toplama, çıxma, vurma, bölmə) birini daxil edir.
+//İstifadəçinin daxil etdiyi əmələ uyğun olaraq if-else operatorları ilə riyazi əməlin nəticəsi ekranda əks olunmalıdır.
